@@ -1,0 +1,2 @@
+rootProject.name='MSA_Android_video_player'
+include ':app'
